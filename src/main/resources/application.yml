@@ -1,0 +1,12 @@
+# 代理配置
+proxy:
+  # http 代理
+  http:
+    # 端口
+    port: 9999
+
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: @application.name@
